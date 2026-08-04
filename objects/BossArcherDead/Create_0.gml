@@ -12,4 +12,4 @@ if (nearby_textbox != noone) { // If a textbox exixts
     instance_destroy(nearby_textbox); // destroys the textbox
 }
 
-audio_play_sound(SkeletonArcherDeath, 1, false); // PLays  teh death effect sound once
+audio_play_sound(SkeletonArcherDeath, 1, false); // Plays the death effect sound once
