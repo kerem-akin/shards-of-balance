@@ -1,13 +1,13 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-function Dialogue() constructor { // Internal staorage for the dialogues
+function Dialogue() constructor { // Internal storage for the dialogues
 
     _dialogs = []; 
 
     add = function(_sprite, _message) { // add ne dialogue
         array_push(_dialogs, { // Push to the end of the array
             sprite: _sprite, // use sprite for the dialogue
-            message: _message // store the mesage for the dialog 
+            message: _message // store the message for the dialogue 
         });
     }
 
@@ -21,7 +21,7 @@ function Dialogue() constructor { // Internal staorage for the dialogues
         }
     }
 
-    count = function() { // Count number of dialogus in queue
+    count = function() { // Count number of dialogues in queue
         return array_length(_dialogs);
     }
 }
