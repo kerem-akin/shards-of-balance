@@ -1,0 +1,1 @@
+alarm[1] = room_speed; // Alarm 1 triggers after 1 second
