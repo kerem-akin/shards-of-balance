@@ -1,0 +1,1 @@
+if (place_meeting(x,y,Object12)) instance_destroy() ; // if colliding with the collision object, destroy the attack

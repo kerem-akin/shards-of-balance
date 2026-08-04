@@ -1,0 +1,10 @@
+with (other) // When colliding with the skeleton
+{
+	hp--; // Decrease health by 1
+	flash = 3; // Apply flash effect
+	hitfrom = other.direction; // Store direction of the hit
+
+}
+
+instance_destroy() ; // Destroy the magicshot after the hit
+
