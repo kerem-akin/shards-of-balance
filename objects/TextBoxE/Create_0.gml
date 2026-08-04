@@ -1,0 +1,1 @@
+image_speed = 1; // Plays the animation at original speed
