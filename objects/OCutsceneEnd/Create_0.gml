@@ -5,4 +5,4 @@ sprite_list = [ENdCutscene1, EndCutscene2, EndCutscene3]; // Sprites used for cu
 timer = 0; // Tracks cutscene progression
 portal_target = noone; // target destination for portal, currently doesnt exist so cutscene can play before transition to menu
 image_speed = 0; // Animatio doesnt play
-sound_played = false; // Tracks whetwer the cutscene sound effects have been played or not, hasnt at the start
+sound_played = false; // Tracks whether the cutscene sound effects have been played or not, hasnt at the start
