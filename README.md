@@ -7,6 +7,15 @@ I taught myself GML from scratch to build it. Development ran from **December 20
 > **Play it:** _(itch.io link coming soon)_
 > **Project write-up:** [kerem-akin.github.io](https://kerem-akin.github.io/#projects)
 
+![Title screen](https://kerem-akin.github.io/game-menu.jpg)
+
+| | |
+|---|---|
+| ![Level one](https://kerem-akin.github.io/game-level1.jpg) | ![The Forsaken Cavern](https://kerem-akin.github.io/game-cave.jpg) |
+| Level one — the forest biome | The hidden cavern, with its own lighting and particle systems |
+| ![Witch's Infernal Blaze](https://kerem-akin.github.io/game-ability.jpg) | ![Boss fight](https://kerem-akin.github.io/game-boss.jpg) |
+| The special ability, unlocked from a chest | The final fight against Exilion |
+
 ---
 
 ## The game
