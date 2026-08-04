@@ -24,14 +24,14 @@ part_type_speed(part_glitter, 0.2, 1, 0, 0); // The particle speed, varies betwe
 part_type_direction(part_glitter, 0, 360, 0, 0); // Particle direction, 360 means they can move in all directions randomly
 part_type_life(part_glitter, 30, 60); // Particles last between 0.5-1 second.
 
-particles_sprites = [DeathAnimationBF]; // Use teh death particles which I created in sprite editor
+particles_sprites = [DeathAnimationBF]; // Use the death particles which I created in sprite editor
 
 damage = 1; // Default damage Exiliion deals if no other damage value is set in its creation code
 
 is_idle = false; // Whether Exilion is in idle state
 idle_timer = 0; // Tracks Exilion`s idle state
 
-has_seen_player = false; // Tracks whetwer Exilion has seen the player or not
+has_seen_player = false; // Tracks whether Exilion has seen the player or not
 
 is_dialogue_shown = false; // Tracks whether Exilion spoke his dialogu or nor
 
