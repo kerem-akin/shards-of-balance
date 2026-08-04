@@ -1,0 +1,1 @@
+audio_play_sound(Sound4Crystal, 20, false); // PLay the sound effect once

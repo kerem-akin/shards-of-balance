@@ -1,0 +1,1 @@
+potion_health = 1; // Increases health by 1 when picked up 

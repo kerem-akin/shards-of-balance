@@ -1,0 +1,1 @@
+audio_stop_all(); // When exiting a room, get rid of all sound
